@@ -52,7 +52,7 @@ button:active {
 .brevo-container {
   box-sizing: border-box;
   border-radius: 0.5em;
-  box-shadow: 0 0 100px rgba(0, 0, 0, 0.25);
+  box-shadow: 0 0 48px rgba(0, 0, 0, 0.25);
 }
 
 .brevo-header {
@@ -109,6 +109,7 @@ button:active {
 }
 
 .container {
+  box-shadow: 0 0 48px rgba(0, 0, 0, 0.25);
   background-color: #fff;
   margin: 24px 12px;
   padding: 24px;
